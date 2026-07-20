@@ -66,7 +66,7 @@ Durante o desenvolvimento deste projeto foi possível compreender:
 
 ## NotebookLM
 
-![NotebookLM](assets/Captura de tela 2026-07-20 174444.png)
+![NotebookLM](assets/print.png)
 
 ---
 
