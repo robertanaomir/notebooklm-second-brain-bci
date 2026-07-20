@@ -11,17 +11,13 @@ O projeto demonstra como utilizar Inteligência Artificial como ferramenta de ap
 - Estudar os fundamentos das Interfaces Cérebro-Computador (BCI).
 - Organizar o conhecimento utilizando o Google NotebookLM.
 - Aplicar técnicas de Engenharia de Prompts.
-- Consolidar o aprendizado em um guia estruturado.
-- Documentar todo o processo em um repositório GitHub.
+
 
 ---
 
 # Tecnologias utilizadas
 
 - Google NotebookLM
-- ChatGPT
-- GitHub
-- Markdown
 
 ---
 
@@ -30,9 +26,7 @@ O projeto demonstra como utilizar Inteligência Artificial como ferramenta de ap
 docs/
 - fontes.md
 - prompts.md
-- glossario.md
 - miniguia.md
-- troubleshooting.md
 
 ---
 
@@ -43,10 +37,6 @@ docs/
 ✔ Engenharia de Prompts
 
 ✔ Miniguia de Estudos
-
-✔ Glossário
-
-✔ Prompts reutilizáveis
 
 ✔ Aprendizados
 
@@ -59,8 +49,6 @@ Durante o desenvolvimento deste projeto foi possível compreender:
 - como estruturar um Segundo Cérebro utilizando IA;
 - como criar prompts mais eficientes;
 - como validar respostas utilizando diferentes fontes;
-- como documentar conhecimento técnico em Markdown;
-- como organizar um projeto no GitHub.
 
 ---
 
