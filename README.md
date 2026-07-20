@@ -65,7 +65,6 @@ Durante o desenvolvimento deste projeto foi possível compreender:
 ---
 
 # Autor
-**Roberta Naomi Rafael**
 
 **Roberta Naomi Rafael**
 
